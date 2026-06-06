@@ -1,43 +1,47 @@
-<h1 align="center">Hi 👋, I'm Harika Devulapally</h1>
-<h3 align="center">DevOps, Platform & MLOps Infrastructure Engineer</h3>
+# Hi 👋, I'm Harika Devulapally
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-harika&label=Profile%20views&color=0e75b6&style=flat" alt="dev-harika" />
-</p>
+### DevOps, Platform & MLOps Infrastructure Engineer
+*I operate at the intersection of traditional cloud infrastructure engineering and modern AI system scaling.*
 
-<p align="center">
-  I operate at the intersection of traditional cloud infrastructure engineering and modern AI system scaling. Expert in orchestrating multi-tenant Kubernetes topologies, automating infrastructure as code, and stabilizing containerized LLM inference platforms across AWS and GCP.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](YOUR_HASHNODE_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harikadevulapally2@gmail.com)
 
 ---
 
-### 🚀 Quick Overviews
-- **🏅 Core Expertise:** Production Kubernetes (EKS/GKE), Red Hat OpenShift, Terraform, High-Velocity GitOps CI/CD, and Distributed Telemetry.
-- **🔬 Open Source:** Core Contributor to **[OPEA (Intel® AI for Enterprise Inference)](https://github.com/opea-project/Enterprise-Inference)**—architecting multi-hardware automation for Gaudi3 and NVIDIA environments.
-- **🌱 Currently Scaling:** Deepening optimization practices around large-scale data ingestion and distributed training compute clusters.
-- **👯 Collaboration:** Open to advanced multi-cloud scaling initiatives, platform engineering frameworks, and MLOps ecosystem pipelines.
-- **📝 Tech Writing:** I regularly document cloud solutions and architectural deep-dives over on my [Hashnode Blog](https://hashnode.com/@harikadevulapally).
-- **📫 Reach Me:** harikadevulapally2@gmail.com
+## 🚀 Quick Overview
+
+* **🏅 Core Expertise:** Managing production Kubernetes (EKS/GKE), Red Hat OpenShift, modular Infrastructure as Code (Terraform), high-velocity CI/CD automation, and enterprise distributed telemetry (Prometheus, Grafana, CloudWatch, Splunk).
+* **🔬 Open Source:** Core Contributor to **OPEA (Intel® AI for Enterprise Inference)**—architecting multi-hardware automation for Intel Gaudi3 and NVIDIA environments, with a focus on containerized workloads in secure perimeters.
+* **🌱 Currently Scaling:** Optimizing performance tuning for large-scale data ingestion pipelines, cloud network routing, and heterogeneous compute clusters.
+* **👯 Collaboration:** Open to advanced multi-cloud scaling initiatives, platform engineering frameworks, and MLOps ecosystem pipelines.
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>&nbsp;
-  <!-- Containers/Orchestration -->
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;
-  <!-- IaC / CI/CD -->
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <!-- Languages/OS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  <!-- Observability -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-</p>
+## 🛠️ Featured Ecosystem Tools & Utilities
 
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & Orchestration** | AWS, GCP, Red Hat OpenShift, Kubernetes (EKS, GKE, Tanzu), VMware |
+| **Infrastructure as Code** | Terraform (HashiCorp Certified), Ansible, CloudFormation |
+| **CI/CD & Pipelines** | Jenkins, GitHub Actions, Harness, GitLab CI |
+| **Automation & Data** | Python (Automation Tooling, API Frameworks), Bash, SQL (Query Optimization) |
+| **Observability & Logging** | Prometheus, Grafana, OpenTelemetry, AWS CloudWatch, Splunk |
+
+---
+
+## 🗂️ Showcase Repositories
+
+*👇 Check out these pinned repositories for production-grade blueprints and utilities:*
+
+* **[OPEA Workspace & Blueprints](./YOUR-REPO-LINK):** Documentation and configuration patterns tracking my merged contributions (PRs #66, #67, #72, #73) for enterprise AI inference orchestration across Ubuntu and RedHat architectures.
+* **[Parallelized Job Aggregator & Matcher](./YOUR-REPO-LINK):** A high-agency Python utility script built using concurrent fetching and LLM API batch-scoring (Claude Haiku) to parse and rank technical job definitions directly from raw web feeds.
+* **[Production-Grade Terraform Modules](./YOUR-REPO-LINK):** Reusable, enterprise-ready Infrastructure as Code setups featuring robust state management, multi-account AWS isolation strategies, and secure IAM/VPC network partitioning.
+
+---
+
+## 📝 Recent Technical Deep-Dives
+
+I regularly document cloud infrastructure solutions, automated runbooks, and architectural system designs over on my **[Hashnode Blog](YOUR_HASHNODE_URL)**. 
+
+📫 **Let's Connect:** Drop me an email at `harikadevulapally2@gmail.com` to talk shop about multi-cloud migrations, platform engineering frameworks, or MLOps infrastructure scaling.
