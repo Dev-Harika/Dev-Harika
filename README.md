@@ -41,6 +41,6 @@
 
 ## 📝 Recent Technical Deep-Dives
 
-I regularly document cloud infrastructure solutions, automated runbooks, and architectural system designs over on my **[Hashnode Blog](YOUR_HASHNODE_URL)**. 
+I regularly document cloud infrastructure solutions, automated runbooks, and architectural system designs over on my **[Hashnode Blog](https://harikadevulapally.hashnode.dev/)**. 
 
 📫 **Let's Connect:** Drop me an email at `harikadevulapally2@gmail.com` to talk shop about multi-cloud migrations, platform engineering frameworks, or MLOps infrastructure scaling.
