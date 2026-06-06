@@ -3,8 +3,8 @@
 ### DevOps, Platform & MLOps Infrastructure Engineer
 *I operate at the intersection of traditional cloud infrastructure engineering and modern AI system scaling.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](YOUR_HASHNODE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikadevulapally/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://harikadevulapally.hashnode.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harikadevulapally2@gmail.com)
 
 ---
@@ -35,7 +35,6 @@
 *👇 Check out these pinned repositories for production-grade blueprints and utilities:*
 
 * **[OPEA Workspace & Blueprints](./YOUR-REPO-LINK):** Documentation and configuration patterns tracking my merged contributions (PRs #66, #67, #72, #73) for enterprise AI inference orchestration across Ubuntu and RedHat architectures.
-* **[Parallelized Job Aggregator & Matcher](./YOUR-REPO-LINK):** A high-agency Python utility script built using concurrent fetching and LLM API batch-scoring (Claude Haiku) to parse and rank technical job definitions directly from raw web feeds.
 * **[Production-Grade Terraform Modules](./YOUR-REPO-LINK):** Reusable, enterprise-ready Infrastructure as Code setups featuring robust state management, multi-account AWS isolation strategies, and secure IAM/VPC network partitioning.
 
 ---
